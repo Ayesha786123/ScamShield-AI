@@ -1,0 +1,2 @@
+# ScamShield AI Core Package
+""

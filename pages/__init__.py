@@ -1,0 +1,2 @@
+# ScamShield AI Pages Package
+""
